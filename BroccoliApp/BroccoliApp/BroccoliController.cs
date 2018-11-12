@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BroccoliApp
+﻿namespace BroccoliApp
 {
     class BroccoliController
     {
+        public BroccoliType Type { get; set; }
     }
 
     public enum BroccoliType
