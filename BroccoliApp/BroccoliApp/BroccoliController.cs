@@ -8,7 +8,6 @@ namespace BroccoliApp
 {
     class BroccoliController
     {
-	//comment
-	//comment2
+        public int Id { get; set; }
     }
 }
