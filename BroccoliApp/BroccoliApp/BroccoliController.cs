@@ -8,7 +8,11 @@ namespace BroccoliApp
 {
     class BroccoliController
     {
-	//comment
-	//comment2
+    }
+
+    public enum BroccoliType
+    {
+        Green,
+        Purple
     }
 }
